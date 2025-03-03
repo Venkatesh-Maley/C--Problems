@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\obj\Debug\net9.0\p17_MissingNumberinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\obj\Debug\net9.0\p17_MissingNumberinArray.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\obj\Debug\net9.0\p17_MissingNumberinArray.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\obj\Debug\net9.0\p17_MissingNumberinArray.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\bin\Debug\net9.0\p17_MissingNumberinArray.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\bin\Debug\net9.0\p17_MissingNumberinArray.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\bin\Debug\net9.0\p17_MissingNumberinArray.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\bin\Debug\net9.0\p17_MissingNumberinArray.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\bin\Debug\net9.0\p17_MissingNumberinArray.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\obj\Debug\net9.0\p17_MissingNumberinArray.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\obj\Debug\net9.0\refint\p17_MissingNumberinArray.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\obj\Debug\net9.0\p17_MissingNumberinArray.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\obj\Debug\net9.0\p17_MissingNumberinArray.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p17_MissingNumberinArray\obj\Debug\net9.0\ref\p17_MissingNumberinArray.dll

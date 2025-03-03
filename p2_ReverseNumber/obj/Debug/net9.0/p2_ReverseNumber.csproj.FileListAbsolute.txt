@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\obj\Debug\net9.0\p2_ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\obj\Debug\net9.0\p2_ReverseNumber.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\obj\Debug\net9.0\p2_ReverseNumber.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\obj\Debug\net9.0\p2_ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\bin\Debug\net9.0\p2_ReverseNumber.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\bin\Debug\net9.0\p2_ReverseNumber.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\bin\Debug\net9.0\p2_ReverseNumber.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\bin\Debug\net9.0\p2_ReverseNumber.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\bin\Debug\net9.0\p2_ReverseNumber.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\obj\Debug\net9.0\p2_ReverseNumber.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\obj\Debug\net9.0\refint\p2_ReverseNumber.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\obj\Debug\net9.0\p2_ReverseNumber.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\obj\Debug\net9.0\p2_ReverseNumber.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_ReverseNumber\obj\Debug\net9.0\ref\p2_ReverseNumber.dll

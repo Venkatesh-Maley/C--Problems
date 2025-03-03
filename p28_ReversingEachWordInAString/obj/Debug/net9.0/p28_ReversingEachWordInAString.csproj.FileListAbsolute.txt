@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\bin\Debug\net9.0\p28_ReversingEachWordInAString.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\bin\Debug\net9.0\p28_ReversingEachWordInAString.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\bin\Debug\net9.0\p28_ReversingEachWordInAString.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\bin\Debug\net9.0\p28_ReversingEachWordInAString.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\bin\Debug\net9.0\p28_ReversingEachWordInAString.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\obj\Debug\net9.0\p28_ReversingEachWordInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\obj\Debug\net9.0\p28_ReversingEachWordInAString.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\obj\Debug\net9.0\p28_ReversingEachWordInAString.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\obj\Debug\net9.0\p28_ReversingEachWordInAString.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\obj\Debug\net9.0\p28_ReversingEachWordInAString.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\obj\Debug\net9.0\refint\p28_ReversingEachWordInAString.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\obj\Debug\net9.0\p28_ReversingEachWordInAString.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\obj\Debug\net9.0\p28_ReversingEachWordInAString.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p28_ReversingEachWordInAString\obj\Debug\net9.0\ref\p28_ReversingEachWordInAString.dll

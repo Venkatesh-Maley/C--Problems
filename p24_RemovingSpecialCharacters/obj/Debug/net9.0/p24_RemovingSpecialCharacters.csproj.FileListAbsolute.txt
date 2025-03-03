@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\obj\Debug\net9.0\p24_RemovingSpecialCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\obj\Debug\net9.0\p24_RemovingSpecialCharacters.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\obj\Debug\net9.0\p24_RemovingSpecialCharacters.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\obj\Debug\net9.0\p24_RemovingSpecialCharacters.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\bin\Debug\net9.0\p24_RemovingSpecialCharacters.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\bin\Debug\net9.0\p24_RemovingSpecialCharacters.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\bin\Debug\net9.0\p24_RemovingSpecialCharacters.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\bin\Debug\net9.0\p24_RemovingSpecialCharacters.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\bin\Debug\net9.0\p24_RemovingSpecialCharacters.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\obj\Debug\net9.0\p24_RemovingSpecialCharacters.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\obj\Debug\net9.0\refint\p24_RemovingSpecialCharacters.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\obj\Debug\net9.0\p24_RemovingSpecialCharacters.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\obj\Debug\net9.0\p24_RemovingSpecialCharacters.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p24_RemovingSpecialCharacters\obj\Debug\net9.0\ref\p24_RemovingSpecialCharacters.dll

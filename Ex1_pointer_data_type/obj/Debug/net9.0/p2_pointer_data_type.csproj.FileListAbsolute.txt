@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\obj\Debug\net9.0\p2_pointer_data_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\obj\Debug\net9.0\p2_pointer_data_type.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\obj\Debug\net9.0\p2_pointer_data_type.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\obj\Debug\net9.0\p2_pointer_data_type.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\bin\Debug\net9.0\p2_pointer_data_type.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\bin\Debug\net9.0\p2_pointer_data_type.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\bin\Debug\net9.0\p2_pointer_data_type.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\bin\Debug\net9.0\p2_pointer_data_type.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\bin\Debug\net9.0\p2_pointer_data_type.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\obj\Debug\net9.0\p2_pointer_data_type.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\obj\Debug\net9.0\refint\p2_pointer_data_type.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\obj\Debug\net9.0\p2_pointer_data_type.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\obj\Debug\net9.0\p2_pointer_data_type.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p2_pointer_data_type\obj\Debug\net9.0\ref\p2_pointer_data_type.dll

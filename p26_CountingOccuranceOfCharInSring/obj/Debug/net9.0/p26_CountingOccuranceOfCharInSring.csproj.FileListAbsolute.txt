@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\obj\Debug\net9.0\p26_CountingOccuranceOfCharInSring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\obj\Debug\net9.0\p26_CountingOccuranceOfCharInSring.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\obj\Debug\net9.0\p26_CountingOccuranceOfCharInSring.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\obj\Debug\net9.0\p26_CountingOccuranceOfCharInSring.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\bin\Debug\net9.0\p26_CountingOccuranceOfCharInSring.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\bin\Debug\net9.0\p26_CountingOccuranceOfCharInSring.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\bin\Debug\net9.0\p26_CountingOccuranceOfCharInSring.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\bin\Debug\net9.0\p26_CountingOccuranceOfCharInSring.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\bin\Debug\net9.0\p26_CountingOccuranceOfCharInSring.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\obj\Debug\net9.0\p26_CountingOccuranceOfCharInSring.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\obj\Debug\net9.0\refint\p26_CountingOccuranceOfCharInSring.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\obj\Debug\net9.0\p26_CountingOccuranceOfCharInSring.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\obj\Debug\net9.0\p26_CountingOccuranceOfCharInSring.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p26_CountingOccuranceOfCharInSring\obj\Debug\net9.0\ref\p26_CountingOccuranceOfCharInSring.dll

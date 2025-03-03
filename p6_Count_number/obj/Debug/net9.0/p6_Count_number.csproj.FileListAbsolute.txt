@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\obj\Debug\net9.0\p6_Count_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\obj\Debug\net9.0\p6_Count_number.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\obj\Debug\net9.0\p6_Count_number.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\obj\Debug\net9.0\p6_Count_number.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\bin\Debug\net9.0\p6_Count_number.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\bin\Debug\net9.0\p6_Count_number.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\bin\Debug\net9.0\p6_Count_number.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\bin\Debug\net9.0\p6_Count_number.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\bin\Debug\net9.0\p6_Count_number.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\obj\Debug\net9.0\p6_Count_number.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\obj\Debug\net9.0\refint\p6_Count_number.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\obj\Debug\net9.0\p6_Count_number.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\obj\Debug\net9.0\p6_Count_number.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p6_Count_number\obj\Debug\net9.0\ref\p6_Count_number.dll

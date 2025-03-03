@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "p13_Factorial_Num/1.0.0": {
+        "runtime": {
+          "p13_Factorial_Num.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p13_Factorial_Num/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

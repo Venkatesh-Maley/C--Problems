@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\bin\Debug\net9.0\p29_ReadDataFromTextFile.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\bin\Debug\net9.0\p29_ReadDataFromTextFile.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\bin\Debug\net9.0\p29_ReadDataFromTextFile.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\bin\Debug\net9.0\p29_ReadDataFromTextFile.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\bin\Debug\net9.0\p29_ReadDataFromTextFile.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\obj\Debug\net9.0\p29_ReadDataFromTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\obj\Debug\net9.0\p29_ReadDataFromTextFile.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\obj\Debug\net9.0\p29_ReadDataFromTextFile.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\obj\Debug\net9.0\p29_ReadDataFromTextFile.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\obj\Debug\net9.0\p29_ReadDataFromTextFile.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\obj\Debug\net9.0\refint\p29_ReadDataFromTextFile.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\obj\Debug\net9.0\p29_ReadDataFromTextFile.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\obj\Debug\net9.0\p29_ReadDataFromTextFile.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p29_ReadDataFromTextFile\obj\Debug\net9.0\ref\p29_ReadDataFromTextFile.dll

@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\bin\Debug\net9.0\p8_Sum_of_numbers.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\bin\Debug\net9.0\p8_Sum_of_numbers.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\bin\Debug\net9.0\p8_Sum_of_numbers.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\bin\Debug\net9.0\p8_Sum_of_numbers.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\bin\Debug\net9.0\p8_Sum_of_numbers.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\obj\Debug\net9.0\p8_Sum_of_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\obj\Debug\net9.0\p8_Sum_of_numbers.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\obj\Debug\net9.0\p8_Sum_of_numbers.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\obj\Debug\net9.0\p8_Sum_of_numbers.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\obj\Debug\net9.0\p8_Sum_of_numbers.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\obj\Debug\net9.0\refint\p8_Sum_of_numbers.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\obj\Debug\net9.0\p8_Sum_of_numbers.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\obj\Debug\net9.0\p8_Sum_of_numbers.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p8_Sum_of_numbers\obj\Debug\net9.0\ref\p8_Sum_of_numbers.dll

@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\obj\Debug\net9.0\p15_Arr_EvenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\obj\Debug\net9.0\p15_Arr_EvenAndOdd.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\obj\Debug\net9.0\p15_Arr_EvenAndOdd.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\obj\Debug\net9.0\p15_Arr_EvenAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\bin\Debug\net9.0\p15_Arr_EvenAndOdd.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\bin\Debug\net9.0\p15_Arr_EvenAndOdd.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\bin\Debug\net9.0\p15_Arr_EvenAndOdd.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\bin\Debug\net9.0\p15_Arr_EvenAndOdd.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\bin\Debug\net9.0\p15_Arr_EvenAndOdd.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\obj\Debug\net9.0\p15_Arr_EvenAndOdd.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\obj\Debug\net9.0\refint\p15_Arr_EvenAndOdd.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\obj\Debug\net9.0\p15_Arr_EvenAndOdd.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\obj\Debug\net9.0\p15_Arr_EvenAndOdd.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p15_Arr_EvenAndOdd\obj\Debug\net9.0\ref\p15_Arr_EvenAndOdd.dll

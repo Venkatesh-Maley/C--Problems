@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\obj\Debug\net9.0\p12_Random_Nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\obj\Debug\net9.0\p12_Random_Nums.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\obj\Debug\net9.0\p12_Random_Nums.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\obj\Debug\net9.0\p12_Random_Nums.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\bin\Debug\net9.0\p12_Random_Nums.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\bin\Debug\net9.0\p12_Random_Nums.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\bin\Debug\net9.0\p12_Random_Nums.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\bin\Debug\net9.0\p12_Random_Nums.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\bin\Debug\net9.0\p12_Random_Nums.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\obj\Debug\net9.0\p12_Random_Nums.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\obj\Debug\net9.0\refint\p12_Random_Nums.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\obj\Debug\net9.0\p12_Random_Nums.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\obj\Debug\net9.0\p12_Random_Nums.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p12_Random_Nums\obj\Debug\net9.0\ref\p12_Random_Nums.dll

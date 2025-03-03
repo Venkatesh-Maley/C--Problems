@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\bin\Debug\net9.0\p11_Prime_Number.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\bin\Debug\net9.0\p11_Prime_Number.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\bin\Debug\net9.0\p11_Prime_Number.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\bin\Debug\net9.0\p11_Prime_Number.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\bin\Debug\net9.0\p11_Prime_Number.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\obj\Debug\net9.0\p11_Prime_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\obj\Debug\net9.0\p11_Prime_Number.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\obj\Debug\net9.0\p11_Prime_Number.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\obj\Debug\net9.0\p11_Prime_Number.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\obj\Debug\net9.0\p11_Prime_Number.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\obj\Debug\net9.0\refint\p11_Prime_Number.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\obj\Debug\net9.0\p11_Prime_Number.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\obj\Debug\net9.0\p11_Prime_Number.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p11_Prime_Number\obj\Debug\net9.0\ref\p11_Prime_Number.dll

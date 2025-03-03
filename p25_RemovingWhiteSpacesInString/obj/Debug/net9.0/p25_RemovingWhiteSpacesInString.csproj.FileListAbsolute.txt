@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\bin\Debug\net9.0\p25_RemovingWhiteSpacesInString.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\bin\Debug\net9.0\p25_RemovingWhiteSpacesInString.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\bin\Debug\net9.0\p25_RemovingWhiteSpacesInString.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\bin\Debug\net9.0\p25_RemovingWhiteSpacesInString.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\bin\Debug\net9.0\p25_RemovingWhiteSpacesInString.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\obj\Debug\net9.0\p25_RemovingWhiteSpacesInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\obj\Debug\net9.0\p25_RemovingWhiteSpacesInString.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\obj\Debug\net9.0\p25_RemovingWhiteSpacesInString.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\obj\Debug\net9.0\p25_RemovingWhiteSpacesInString.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\obj\Debug\net9.0\p25_RemovingWhiteSpacesInString.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\obj\Debug\net9.0\refint\p25_RemovingWhiteSpacesInString.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\obj\Debug\net9.0\p25_RemovingWhiteSpacesInString.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\obj\Debug\net9.0\p25_RemovingWhiteSpacesInString.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p25_RemovingWhiteSpacesInString\obj\Debug\net9.0\ref\p25_RemovingWhiteSpacesInString.dll

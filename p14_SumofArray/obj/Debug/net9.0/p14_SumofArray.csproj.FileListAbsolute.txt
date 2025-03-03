@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\obj\Debug\net9.0\p14_SumofArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\obj\Debug\net9.0\p14_SumofArray.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\obj\Debug\net9.0\p14_SumofArray.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\obj\Debug\net9.0\p14_SumofArray.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\bin\Debug\net9.0\p14_SumofArray.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\bin\Debug\net9.0\p14_SumofArray.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\bin\Debug\net9.0\p14_SumofArray.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\bin\Debug\net9.0\p14_SumofArray.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\bin\Debug\net9.0\p14_SumofArray.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\obj\Debug\net9.0\p14_SumofArray.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\obj\Debug\net9.0\refint\p14_SumofArray.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\obj\Debug\net9.0\p14_SumofArray.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\obj\Debug\net9.0\p14_SumofArray.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p14_SumofArray\obj\Debug\net9.0\ref\p14_SumofArray.dll

@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\obj\Debug\net9.0\p18_MaxAndMinElementsinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\obj\Debug\net9.0\p18_MaxAndMinElementsinArray.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\obj\Debug\net9.0\p18_MaxAndMinElementsinArray.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\obj\Debug\net9.0\p18_MaxAndMinElementsinArray.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\bin\Debug\net9.0\p18_MaxAndMinElementsinArray.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\bin\Debug\net9.0\p18_MaxAndMinElementsinArray.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\bin\Debug\net9.0\p18_MaxAndMinElementsinArray.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\bin\Debug\net9.0\p18_MaxAndMinElementsinArray.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\bin\Debug\net9.0\p18_MaxAndMinElementsinArray.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\obj\Debug\net9.0\p18_MaxAndMinElementsinArray.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\obj\Debug\net9.0\refint\p18_MaxAndMinElementsinArray.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\obj\Debug\net9.0\p18_MaxAndMinElementsinArray.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\obj\Debug\net9.0\p18_MaxAndMinElementsinArray.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p18_MaxAndMinElementsinArray\obj\Debug\net9.0\ref\p18_MaxAndMinElementsinArray.dll

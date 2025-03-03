@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\bin\Debug\net9.0\p13_Factorial_Num.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\bin\Debug\net9.0\p13_Factorial_Num.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\bin\Debug\net9.0\p13_Factorial_Num.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\bin\Debug\net9.0\p13_Factorial_Num.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\bin\Debug\net9.0\p13_Factorial_Num.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\obj\Debug\net9.0\p13_Factorial_Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\obj\Debug\net9.0\p13_Factorial_Num.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\obj\Debug\net9.0\p13_Factorial_Num.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\obj\Debug\net9.0\p13_Factorial_Num.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\obj\Debug\net9.0\p13_Factorial_Num.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\obj\Debug\net9.0\refint\p13_Factorial_Num.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\obj\Debug\net9.0\p13_Factorial_Num.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\obj\Debug\net9.0\p13_Factorial_Num.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p13_Factorial_Num\obj\Debug\net9.0\ref\p13_Factorial_Num.dll

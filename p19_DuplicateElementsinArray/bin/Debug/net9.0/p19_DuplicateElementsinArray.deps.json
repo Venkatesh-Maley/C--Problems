@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "p19_DuplicateElementsinArray/1.0.0": {
+        "runtime": {
+          "p19_DuplicateElementsinArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p19_DuplicateElementsinArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

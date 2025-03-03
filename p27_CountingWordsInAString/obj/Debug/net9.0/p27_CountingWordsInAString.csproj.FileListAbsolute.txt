@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\obj\Debug\net9.0\p27_CountingWordsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\obj\Debug\net9.0\p27_CountingWordsInAString.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\obj\Debug\net9.0\p27_CountingWordsInAString.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\obj\Debug\net9.0\p27_CountingWordsInAString.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\bin\Debug\net9.0\p27_CountingWordsInAString.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\bin\Debug\net9.0\p27_CountingWordsInAString.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\bin\Debug\net9.0\p27_CountingWordsInAString.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\bin\Debug\net9.0\p27_CountingWordsInAString.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\bin\Debug\net9.0\p27_CountingWordsInAString.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\obj\Debug\net9.0\p27_CountingWordsInAString.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\obj\Debug\net9.0\refint\p27_CountingWordsInAString.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\obj\Debug\net9.0\p27_CountingWordsInAString.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\obj\Debug\net9.0\p27_CountingWordsInAString.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p27_CountingWordsInAString\obj\Debug\net9.0\ref\p27_CountingWordsInAString.dll

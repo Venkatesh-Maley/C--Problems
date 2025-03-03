@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\obj\Debug\net9.0\p20_LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\obj\Debug\net9.0\p20_LinearSearch.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\obj\Debug\net9.0\p20_LinearSearch.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\obj\Debug\net9.0\p20_LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\bin\Debug\net9.0\p20_LinearSearch.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\bin\Debug\net9.0\p20_LinearSearch.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\bin\Debug\net9.0\p20_LinearSearch.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\bin\Debug\net9.0\p20_LinearSearch.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\bin\Debug\net9.0\p20_LinearSearch.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\obj\Debug\net9.0\p20_LinearSearch.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\obj\Debug\net9.0\refint\p20_LinearSearch.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\obj\Debug\net9.0\p20_LinearSearch.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\obj\Debug\net9.0\p20_LinearSearch.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p20_LinearSearch\obj\Debug\net9.0\ref\p20_LinearSearch.dll

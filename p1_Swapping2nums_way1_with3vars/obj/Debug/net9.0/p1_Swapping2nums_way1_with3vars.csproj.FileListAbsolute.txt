@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\obj\Debug\net9.0\p1_Swapping2nums_way1_with3vars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\obj\Debug\net9.0\p1_Swapping2nums_way1_with3vars.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\obj\Debug\net9.0\p1_Swapping2nums_way1_with3vars.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\obj\Debug\net9.0\p1_Swapping2nums_way1_with3vars.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\bin\Debug\net9.0\p1_Swapping2nums_way1_with3vars.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\bin\Debug\net9.0\p1_Swapping2nums_way1_with3vars.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\bin\Debug\net9.0\p1_Swapping2nums_way1_with3vars.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\bin\Debug\net9.0\p1_Swapping2nums_way1_with3vars.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\bin\Debug\net9.0\p1_Swapping2nums_way1_with3vars.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\obj\Debug\net9.0\p1_Swapping2nums_way1_with3vars.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\obj\Debug\net9.0\refint\p1_Swapping2nums_way1_with3vars.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\obj\Debug\net9.0\p1_Swapping2nums_way1_with3vars.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\obj\Debug\net9.0\p1_Swapping2nums_way1_with3vars.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p1_Swapping2nums_way1_with3vars\obj\Debug\net9.0\ref\p1_Swapping2nums_way1_with3vars.dll

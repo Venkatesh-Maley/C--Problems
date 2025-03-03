@@ -1,0 +1,14 @@
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\obj\Debug\net9.0\p7_Count_even_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\obj\Debug\net9.0\p7_Count_even_odd.AssemblyInfoInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\obj\Debug\net9.0\p7_Count_even_odd.AssemblyInfo.cs
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\obj\Debug\net9.0\p7_Count_even_odd.csproj.CoreCompileInputs.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\bin\Debug\net9.0\p7_Count_even_odd.exe
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\bin\Debug\net9.0\p7_Count_even_odd.deps.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\bin\Debug\net9.0\p7_Count_even_odd.runtimeconfig.json
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\bin\Debug\net9.0\p7_Count_even_odd.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\bin\Debug\net9.0\p7_Count_even_odd.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\obj\Debug\net9.0\p7_Count_even_odd.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\obj\Debug\net9.0\refint\p7_Count_even_odd.dll
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\obj\Debug\net9.0\p7_Count_even_odd.pdb
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\obj\Debug\net9.0\p7_Count_even_odd.genruntimeconfig.cache
+C:\Users\M Venkatesh\OneDrive\Documents\Skills\C# Problems\p7_Count_even_odd\obj\Debug\net9.0\ref\p7_Count_even_odd.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "p14_SumofArray/1.0.0": {
+        "runtime": {
+          "p14_SumofArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p14_SumofArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
