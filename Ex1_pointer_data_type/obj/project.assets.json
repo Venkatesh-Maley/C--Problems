@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M Venkatesh\\OneDrive\\Documents\\Skills\\C# Problems\\p2_pointer_data_type\\p2_pointer_data_type.csproj",
-      "projectName": "p2_pointer_data_type",
-      "projectPath": "C:\\Users\\M Venkatesh\\OneDrive\\Documents\\Skills\\C# Problems\\p2_pointer_data_type\\p2_pointer_data_type.csproj",
+      "projectUniqueName": "C:\\Users\\M Venkatesh\\OneDrive\\Documents\\Skills\\C# Problems\\Ex1_pointer_data_type\\Ex1_pointer_data_type.csproj",
+      "projectName": "Ex1_pointer_data_type",
+      "projectPath": "C:\\Users\\M Venkatesh\\OneDrive\\Documents\\Skills\\C# Problems\\Ex1_pointer_data_type\\Ex1_pointer_data_type.csproj",
       "packagesPath": "C:\\Users\\M Venkatesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M Venkatesh\\OneDrive\\Documents\\Skills\\C# Problems\\p2_pointer_data_type\\obj\\",
+      "outputPath": "C:\\Users\\M Venkatesh\\OneDrive\\Documents\\Skills\\C# Problems\\Ex1_pointer_data_type\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
